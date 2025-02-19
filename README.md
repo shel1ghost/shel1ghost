@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shel1ghost
 - 👀 I’m interested in programming & penetration testing.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning advanced java programming.
 
 <!---
 shel1ghost/shel1ghost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
